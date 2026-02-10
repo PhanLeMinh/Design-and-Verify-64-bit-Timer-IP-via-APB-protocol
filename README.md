@@ -1,4 +1,4 @@
-TIMER IP VIA APB PROTOCOL
+# TIMER IP VIA APB PROTOCOL
 Timer is an essential module for every chip.
 This is used to generate accurate timing interval or controlling the timing of various operations within the circuit. Timer can be used in various application: pulse generation, delay generation, event generation, PWM generation, Interrupt generation ….
 In this project, a timer module is customized from CLINT module of industrial RISC-V architecture. It is used to generate interrupt based on user settings.
