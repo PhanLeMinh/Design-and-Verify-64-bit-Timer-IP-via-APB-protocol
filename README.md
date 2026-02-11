@@ -14,5 +14,6 @@
 - Counter can be counted based on the system clock or divided up to 256
 - Support timer interrupt (can be enabled or disabled)
 - Coverage achieved is 100%
-<img width="868" height="413" alt="image" src="https://github.com/user-attachments/assets/97377f00-27da-498f-9c3c-4fd1e24fe051" />
+<img width="1409" height="669" alt="image" src="https://github.com/user-attachments/assets/39453aa4-9246-4c52-9ceb-89f3dcf92df5" />
+
 
